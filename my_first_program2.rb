@@ -1,6 +1,5 @@
-puts "Donne un nombre bg"
+puts "Bonjour, c'est quoi ton blase ?"
 print "> "
-number = gets.to_i
 .times do |i|
     puts "Salut ça farte"
   end
